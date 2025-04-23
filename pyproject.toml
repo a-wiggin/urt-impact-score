@@ -1,0 +1,11 @@
+[project]
+name = "urt-player-score"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "polars>=1.27.1",
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
+]
